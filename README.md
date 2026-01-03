@@ -1,4 +1,4 @@
-# Online Voting System
+<img width="1912" height="994" alt="主页面" src="https://github.com/user-attachments/assets/301bf053-276b-461c-b392-261259f0dd5e" /># Online Voting System
 
 一个基于Java Web技术的在线投票系统课程设计。系统采用MVC模式，实现了用户投票、实时结果展示、管理员管理等功能。
 
@@ -6,13 +6,26 @@
 
 - **用户端**
   - 浏览候选人信息（响应式卡片布局）
+  <img width="1912" height="994" alt="主页面" src="https://github.com/user-attachments/assets/72fa49b3-fb47-4bdb-b5b1-b0ebf1fc69d2" />
+
   - 进行投票（基于Session的防重复投票机制）
+  <img width="1912" height="994" alt="投票状态展示" src="https://github.com/user-attachments/assets/b4aa7f29-8be0-4201-b6ae-f2e2e671f94d" />
+
   - 查看实时投票结果（进度条可视化，支持智能并列排名处理）
+  <img width="1912" height="994" alt="唯一领先者结果" src="https://github.com/user-attachments/assets/5bc24ab1-4d47-4034-b1f5-088d9c8cabca" />
+
 
 - **管理员端**
   - 安全的登录验证
+  <img width="1912" height="994" alt="管理员" src="https://github.com/user-attachments/assets/6573eb0c-e6c4-4fe4-a897-d6c76c0b1e0e" />
+
   - 对候选人进行增删改查(CRUD)管理
+  <img width="1912" height="994" alt="候选人管理" src="https://github.com/user-attachments/assets/8b95b4ab-630a-41a9-bc54-f407aa56015e" />
+
   - 重置投票数据、配置系统主题
+  <img width="637" height="163" alt="投票统计" src="https://github.com/user-attachments/assets/c7708c09-d219-4c52-beaa-3b0c5cd9e610" />
+  <img width="637" height="153" alt="重置" src="https://github.com/user-attachments/assets/c06f6981-6e5f-4721-9908-f876784b7ec5" />
+  <img width="1297" height="140" alt="更换主题" src="https://github.com/user-attachments/assets/a2f8f954-5f90-484b-8519-081428b68b70" />
 
 ## 技术栈
 
