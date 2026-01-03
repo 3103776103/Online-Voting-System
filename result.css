@@ -1,0 +1,41 @@
+/* 结果页样式 */
+body {
+    background: var(--body-bg);
+    padding-top: 30px;
+}
+
+.result-card {
+    padding: 30px;
+    margin-top: 80px;
+}
+
+.winner-card {
+    background: linear-gradient(135deg, #f093fb 0%, #f5576c 100%);
+    color: white;
+    border-radius: 10px;
+    padding: 20px;
+    margin: 20px 0;
+}
+
+.database-info {
+    background: #e8f6f3;
+    padding: 15px;
+    border-radius: 5px;
+    margin: 15px 0;
+    border-left: 4px solid #28a745;
+}
+
+/* 并列候选人 */
+.tie-row {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.tie-candidate {
+    text-align: center;
+    padding: 15px;
+    background: rgba(255, 255, 255, 0.2);
+    border-radius: 10px;
+    margin: 0 5px;
+}

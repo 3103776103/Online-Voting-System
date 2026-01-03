@@ -1,0 +1,29 @@
+/* 管理页面样式 */
+body {
+    padding: 20px;
+    background: #f5f5f5;
+}
+
+.header {
+    background: var(--primary-gradient);
+    color: white;
+    padding: 15px;
+    border-radius: 5px;
+    margin-bottom: 20px;
+}
+
+.candidate-row {
+    background: white;
+    padding: 15px;
+    margin-bottom: 10px;
+    border-radius: 5px;
+    border-left: 4px solid #667eea;
+}
+
+.system-settings {
+    background: white;
+    padding: 20px;
+    border-radius: 5px;
+    margin-bottom: 20px;
+    border-left: 4px solid #ff9500;
+}
