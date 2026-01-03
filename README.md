@@ -1,7 +1,6 @@
-<img width="1912" height="994" alt="主页面" src="https://github.com/user-attachments/assets/301bf053-276b-461c-b392-261259f0dd5e" /># Online Voting System
+# Online Voting System
 
 一个基于Java Web技术的在线投票系统课程设计。系统采用MVC模式，实现了用户投票、实时结果展示、管理员管理等功能。
-
 ## 功能特性
 
 - **用户端**
@@ -12,8 +11,7 @@
   <img width="1912" height="994" alt="投票状态展示" src="https://github.com/user-attachments/assets/b4aa7f29-8be0-4201-b6ae-f2e2e671f94d" />
 
   - 查看实时投票结果（进度条可视化，支持智能并列排名处理）
-  <img width="1912" height="994" alt="唯一领先者结果" src="https://github.com/user-attachments/assets/5bc24ab1-4d47-4034-b1f5-088d9c8cabca" />
-
+  <img width="1912" height="994" alt="唯一领先者结果" src="https://github.com/user-attachments/assets/66949c97-6c45-4507-9b09-2a8768a17bf9" />
 
 - **管理员端**
   - 安全的登录验证
