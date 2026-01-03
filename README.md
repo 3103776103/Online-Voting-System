@@ -62,3 +62,16 @@
     - 访问 `http://localhost:8080/你的项目上下文路径`。
 
 ## 项目结构说明
+online-voting-system/
+├── src/main/java/ # Java 源代码
+│ ├── controller/ # Servlet控制器
+│ ├── model/ # 数据模型/JavaBean
+│ └── util/ # 工具类（如DBUtil）
+├── src/main/webapp/ # Web资源
+│ ├── WEB-INF/ # 配置和库
+│ ├── css/ # 样式表
+│ ├── js/ # JavaScript文件
+│ ├── index.jsp # 首页
+│ └── result.jsp # 结果页
+├── sql/ # 数据库脚本
+├── pom.xml # Maven依赖配置
